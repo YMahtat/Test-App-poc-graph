@@ -16,7 +16,7 @@ public class PocProperties {
     @Value("${auth.password}")
     private String passwordAuth;
 
-    @Value("${poc-test.base-url")
+    @Value("${poc-test.base-url}")
     private String baseUrl;
 
     public String getGeckodriverPath() {
