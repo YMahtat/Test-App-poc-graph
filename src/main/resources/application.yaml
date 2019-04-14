@@ -1,0 +1,11 @@
+server:
+    port: 8090
+
+
+poc-test:
+    geckodriver: "D:/ZB - TOOLs/Tests Automation/geckodriver.exe"
+    base-url: "http://poc-graph-test.azurewebsites.net/outlook"
+
+auth:
+    username: ymahtat
+    password: 642FG8Y7YZ
